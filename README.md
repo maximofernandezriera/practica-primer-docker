@@ -8,7 +8,7 @@ Es una pequeña aplicación Apache+PHP. Hay una serie de archivos `sh` para ahor
 
 Antes de empezar a trabajar, comprobaremos si Docker está instalado correctamente, mediante el comando `docker ps` que muestra esta salida:
 
-![image-20210109112248195](/img/docker/image-20210109112248195.png)
+![image-20210109112248195](/image-20210109112248195.png)
 
 La salida muestra que no hay corriendo ningún contenedor Docker
 
@@ -142,11 +142,11 @@ Hemos lanzado `build.sh` y todo fue bien. Ahora usaremos `debug.sh`para lanzar e
 Una vez visitemos la página varias veces veremos que el contador de visitas aumenta:
 
 
-![image-20210110210411340](/img/image-20210110210411340.png)
+![image-20210110210411340](/image-20210110210411340.png)
 
 Podemos comprobar que el contenedor está corriendo ejecutando `docker ps`
 
-![docker ps](/img/image-20210109184322115.png)
+![docker ps](/image-20210109184322115.png)
 
 Para reiniciar el contenedor podemos lanzar `docker restart chapter2` y veremos que el contador continúa donde se quedó.
 
