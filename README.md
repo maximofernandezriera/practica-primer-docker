@@ -2,7 +2,7 @@
 
 > <span style='color: red'><strong>NOTA</strong>. ESTA PRÁCTICA LA HAREMOS EN CLASE</span>
 
-Vamos a usar un repositorio de GitHub que ya tiene todos los componentes contenedorizados. El repositorio se encuentra adjunto a la entrega del classroom.
+Vamos a usar un repositorio de GitHub que ya tiene todos los componentes contenedorizados. Los ficheros necesiarios están adjuntos a este enunciado del classroom.
 
 Es una pequeña aplicación Apache+PHP. Hay una serie de archivos `sh` para ahorrarnos el trabajo de escribir comandos pero estaría bien que echaras un vistazo a los mismos.
 
